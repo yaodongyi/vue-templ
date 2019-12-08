@@ -26,13 +26,13 @@ npm run tpl "name"
 ```
 
 
-# 创建模版
+## 创建模版
 > [学习nest创建模块方式，采用脚本生成统一模版](https://docs.nestjs.cn/6/controllers?id=%e8%b7%af%e7%94%b1)     
 
 `npm run tpl "name"`  自动生成到Upin 目录      
 
 
-# router
+## router
 滑入滑出效果     
 ```javascript
 // 向左滑入
@@ -49,11 +49,11 @@ window.history.go(n);
 使用`router.go(-n); or window.history.go(n);`将会记录上一个页面数据。
 
 
-# postcss 
+## postcss 
 采用根节点 `375/16` 的方式进行界面响应式。**请将设计图像素比例设置宽为375px**
 
 
-# @alias
+## @alias
 ```javascript
 alias: {
     '@': path.resolve(__dirname, './src'),

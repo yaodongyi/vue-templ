@@ -104,7 +104,7 @@ alias: {
 
 
 # bug
-## vue-router v3.2.1 报 catch 错误
+### vue-router v3.2.1 报 catch 错误
 `undefined` & 重复跳转同一个页面错误      
 解决方案：回退版本 `vue-router `    
 1. `npm i vue-router@3.0 -S`      

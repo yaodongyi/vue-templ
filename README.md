@@ -1,9 +1,4 @@
-<!--
- * @Author: yaodongyi
- * @Date: 2019-12-06 16:26:49
- * @Description: 
- -->
-# integral_shop
+# vue-template
 
 ## Project setup
 ```

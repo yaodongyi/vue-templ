@@ -28,7 +28,7 @@
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
     "postcss-pxtorem": "^4.0.1",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "vue-template-compiler": "^2.6.10"
   }
 }
